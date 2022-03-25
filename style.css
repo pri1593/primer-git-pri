@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
     padding: 0;
@@ -84,3 +85,36 @@ body{
         .singup span:hover{
             color: #3793df;
         }
+img{
+    height: 280px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 50px 50px;
+
+}
+.contacto{
+    padding: 0;
+    margin: 15px;
+    background-color: #4a28e6;
+    height: 470px;
+    width: 450px;
+    box-sizing: border-box;
+    border-radius: 50px 50px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+ul{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #fff;
+    padding: 5px;
+    margin: 10px;
+}
+
